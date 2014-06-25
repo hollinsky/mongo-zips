@@ -24,3 +24,4 @@ function distance(lat1, lon1, lat2, lon2)
 }
 ```
 
+I'd love to hear if you use this data in your project! It's certainly not required, I'm just always interested to see the impact of my work. My email is paul@cpcookieman.com.
